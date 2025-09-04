@@ -66,3 +66,14 @@ The **Flutter app** provides real-time monitoring and analysis:
 - run the command
   ```
   python server.py
+
+---
+
+## 📥 Clone this Repository  
+
+To get started, clone the repository to your local machine:  
+
+```bash
+git clone https://github.com/123thirumal/PH-Monitor.git
+cd PH-Monitor
+
