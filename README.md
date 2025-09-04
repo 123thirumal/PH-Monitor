@@ -42,7 +42,7 @@ The **Flutter app** provides real-time monitoring and analysis:
 ### Screenshots  
 | Home Screen | Analytics Screen |  
 |-------------|------------------|  
-| ![Home Screen](docs/images/img1.jpg) | ![Analytics Screen](docs/images/img2.jpg) |  
+| ![Home Screen](docs/images/image1.jpg) | ![Analytics Screen](docs/images/img2.jpg) |  
 
 ---
 
